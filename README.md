@@ -2,8 +2,8 @@
 # Detail Preserving Pooling in Torch 
 
 This repository contains the code for DPP introduced in the following paper:<br>
-**[Detail-Preserving Pooling in Deep Networks](http://arxiv.org/) (CVPR 2018)**<br>
-[Faraz Saeedan](http://www.visinf.tu-darmstadt.de/team_members/fsaeedan/fsaeedan.en.jsp)<sup>1</sup>, [Nicolas Weber](https://www.gcc.tu-darmstadt.de/home/we/nicolas_weber/index.en.jsp)<sup>1,2*</sup>, [Michael Goesele](https://www.gcc.tu-darmstadt.de/home/we/michael_goesele/)<sup>1,3*</sup>, and [Stefan Roth](http://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp)<sup>1</sup><br>
+**[Detail-Preserving Pooling in Deep Networks](https://arxiv.org/abs/1804.04076) (CVPR 2018)**<br>
+[Faraz Saeedan](http://www.visinf.tu-darmstadt.de/team_members/fsaeedan/fsaeedan.en.jsp)<sup>1</sup>, [Nicolas Weber](https://www.mergian.de)<sup>1,2*</sup>, [Michael Goesele](https://www.gcc.tu-darmstadt.de/home/we/michael_goesele/)<sup>1,3*</sup>, and [Stefan Roth](http://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp)<sup>1</sup><br>
 <sup>1</sup>TU Darmstadt ([VISINF](http://www.visinf.tu-darmstadt.de/visinf/news/index.en.jsp) & [GCC](https://www.gcc.tu-darmstadt.de/home/index.en.jsp)),  <sup>2</sup>NEC Laboratories Europe,  <sup>3</sup>Oculus Research<br>
 <sup>*</sup>Work carried out while at TU Darmstadt </p>
 
