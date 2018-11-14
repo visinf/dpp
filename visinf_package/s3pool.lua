@@ -32,7 +32,7 @@ function s3pool:updateOutput(input)
         self.indicesH[{{((i-1)*(self.grid/self.dH))+1,(i*(self.grid/self.dH))}}]=torch.multinomial(torch.ones(self.grid),self.grid/self.dH)+((i-1)*self.grid);
      end 
      self.indicesH=torch.sort(self.indicesH);
-     for i=1,gridH do
+     for i=1,gridW do
       
         self.indicesW[{{((i-1)*(self.grid/self.dW))+1,(i*(self.grid/self.dW))}}]=torch.multinomial(torch.ones(self.grid),self.grid/self.dW)+((i-1)*self.grid);
      end 
